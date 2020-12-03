@@ -1,0 +1,3 @@
+include ':NPDialog'
+include ':app'
+rootProject.name = "NPDialogExample-Android"

@@ -1,0 +1,3 @@
+# lib-NPDialog
+
+Dialog helper
